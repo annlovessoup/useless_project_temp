@@ -1,8 +1,7 @@
 <img width="1280" height="640" alt="git (1)" src="https://github.com/user-attachments/assets/8920b256-2ba8-4988-b824-5351134eb4bd" />
 
 
-
-# [Project Name] 🎯
+VAIYE
 
 
 ## Basic Details
@@ -10,88 +9,64 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Annmaria Biju SJCET
+
 
 ### Project Description
-[2-3 lines about what your project does]
+VAIYE is an AI agent that has human mental disorders- primarily Dyslexia and ADHD. It misreads user's prompts and will lead it to give a totally irrelevant solution, sometimes it even repeats the answer.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world, where every AI model fighting to be the best, why not have a flawed AI?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+VAIYE processes every prompt through a live, multi-step "deliberation phase": it phonetically misreads key words, free-associates into a tangent, sometimes chains into a second tangent, then commits fully and confidently to a solution for the wrong problem — typos and all.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Languages: JavaScript/TypeScript, HTML, CSS
+- Tools: Google Antigravity, Gemini API
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone file:///C:/Users/bijuj/OneDrive/Desktop/uprj/index.html
+cd vaiye
+npm install
 
 # Run
-[commands]
+npm run dev
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1358" height="636" alt="image" src="https://github.com/user-attachments/assets/09aa1885-7de8-4c22-95a0-7670c09c9459" />
+
+User interface before typing any prompt
+
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1335" height="618" alt="image" src="https://github.com/user-attachments/assets/0e1b9dd1-731c-4d24-b097-f381efdce727" />
+
+When given the prompt to generate a cake recipe
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1273" height="514" alt="image" src="https://github.com/user-attachments/assets/d386a643-9b68-494e-9bc9-cc0298df6244" />
+when given a larger prompt
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="680" height="393" alt="image" src="https://github.com/user-attachments/assets/2f4b243b-98ed-475c-8147-2a0595c597d6" />
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
